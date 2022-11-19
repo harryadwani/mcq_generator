@@ -1,0 +1,13 @@
+gensim==3.6.0
+bert-extractive-summarizer==0.10.1
+nltk==3.7
+sacremoses==0.0.53
+spacy==3.4.2
+wn==0.0.23
+pywsd==1.2.5
+flashtext==2.7
+pke @ git+https://github.com/boudinfl/pke.git@5af1f817e0211c33ac3f90e1e86bb5c1283448e8
+flask
+flask_cors
+PyPDF2
+
